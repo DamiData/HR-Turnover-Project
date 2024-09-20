@@ -3,6 +3,9 @@
 ## Company Overview
 Galaxy is a Human Resource company facing a significant challenge with high employee turnover. This report seeks to analyze the factors contributing to this issue and offers actionable recommendations to improve employee retention.
 
+![GALAXY HR TURNOVER REPORT DASHBOARD](https://github.com/user-attachments/assets/6c2b4d0e-2293-4a85-8920-b32fb10af05b)
+
+
 ## Problem Statement
 Galaxy is experiencing a high rate of employee turnover, and there is a need to understand the root causes of this issue. This analysis investigates patterns and trends in employee attrition, focusing on demographic characteristics, job roles, and departments. The goal is to identify key drivers of turnover and provide recommendations to reduce overall attrition and enhance employee retention.
 
